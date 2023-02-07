@@ -16,13 +16,13 @@ foldername = os.path.basename(os.getcwd())
 if foldername == "tools": os.chdir("..")
 
 
-data_dir = '/custom_dataset/'
-Dataset_names_path = "model_data/license_plate_names.txt"
-Dataset_train = "model_data/license_plate_train.txt"
-Dataset_test = "model_data/license_plate_test.txt"
+data_dir = '/datasets/blossom_rot/'
+Dataset_names_path = "datasets/blossom_rot/names.txt"
+Dataset_train = "datasets/blossom_rot/train.txt"
+Dataset_test = "datasets/blossom_rot/test.txt"
 is_subfolder = False
 
-Dataset_names = []
+Dataset_names = ['late_blight', 'healthy']
       
 def ParseXML(img_folder, file):
     for xml_file in glob.glob(img_folder+'/*.xml'):
