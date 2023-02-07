@@ -1,3 +1,2 @@
 -add checkpoints somehow
--add test images
 -add datasets
