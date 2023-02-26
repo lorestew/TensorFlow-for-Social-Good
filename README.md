@@ -1,5 +1,5 @@
 # TensorFlow-for-Social-Good
-YOLOv3 implementation in TensorFlow 2.3.1 forked from pythonlessons. Original readme can be found in originalreadme.txt
+YOLOv3 implementation in TensorFlow 2.3.1 forked from pythonlessons. Original readme can be found in originalreadme.txt Presentation used can be found in examples/Presentation.pdf
 
  - Some examples of tomato detection using the YOLO v4 model.
 <p align="left">
