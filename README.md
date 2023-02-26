@@ -5,7 +5,7 @@ YOLOv3 implementation in TensorFlow 2.3.1 forked from pythonlessons. Original re
 Some examples of tomato detection using the YOLO v4 model.
 <p align="left">
     <img width="47%" src="examples/tomato_detect.jpg" style="max-width:50%;"></a>
-    <img width="50%" src="examples/tomato_detect2.png" style="max-width:20%;"></a>
+    <img width="50%" src="examples/tomato_detect_2.png" style="max-width:20%;"></a>
 </p>
 
 
