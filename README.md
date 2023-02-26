@@ -1,13 +1,12 @@
 # TensorFlow-for-Social-Good
 YOLOv3 implementation in TensorFlow 2.3.1 forked from pythonlessons. Original readme can be found in originalreadme.txt
 
-# Overview
-Some examples of tomato detection using the YOLO v4 model.
+ - Some examples of tomato detection using the YOLO v4 model.
 <p align="left">
     <img width="30%" src="examples/tomato_detect.jpg" style="max-width:50%;"></a>
     <img width="50%" src="examples/tomato_detect_2.jpg" style="max-width:20%;"></a>
 </p>
-Some examples of the late blight disease being detected.
+ - Some examples of the late blight disease being detected.
 <p align="left">
     <img width="20%" src="examples/lateblight_detect.jpg" style="max-width:30%;"></a>
     <img width="20%" src="examples/lateblight_2_detect.jpg" style="max-width:30%;"></a>
