@@ -1,7 +1,7 @@
 # TensorFlow-for-Social-Good
 YOLOv3 implementation in TensorFlow 2.3.1 forked from pythonlessons. Original readme can be found in originalreadme.txt
 
-#Install
+# Install
 To install simply clone the repository.
 - Required depencencies can be installed through requirements.txt
 ```
@@ -14,7 +14,7 @@ git clone https://github.com/lorestew/TSG-Data.git
 ```
 -Place contents directly into the folder and replace existing folders
 
-#Guide
+# Guide
 detection_custom.py can be used to test the model on images of tomatoes/diseases. Test images have been provided inside of the IMAGES folder. Modify lines 19 and 23 to change the image.
 ```
 detection_custom.py
