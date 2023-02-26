@@ -4,14 +4,14 @@ YOLOv3 implementation in TensorFlow 2.3.1 forked from pythonlessons. Original re
 # Overview
 Some examples of tomato detection using the YOLO v4 model.
 <p align="left">
-    <img width="47%" src="examples/tomato_detect.jpg" style="max-width:50%;"></a>
+    <img width="30%" src="examples/tomato_detect.jpg" style="max-width:50%;"></a>
     <img width="50%" src="examples/tomato_detect_2.jpg" style="max-width:20%;"></a>
 </p>
 Some examples of the late blight disease being detected.
 <p align="left">
-    <img width="30%" src="examples/lateblight_detect.jpg" style="max-width:50%;"></a>
-    <img width="30%" src="examples/lateblight_2_detect.jpg" style="max-width:20%;"></a>
-    <img width="30%" src="examples/lateblight_3_detect.jpg" style="max-width:20%;"></a>
+    <img width="30%" src="examples/lateblight_detect.jpg" style="max-width:30%;"></a>
+    <img width="30%" src="examples/lateblight_2_detect.jpg" style="max-width:30%;"></a>
+    <img width="30%" src="examples/lateblight_3_detect.jpg" style="max-width:30%;"></a>
 </p>
 These aren't as accurate as the tomatoes as we used a smaller dataset to train on and the labels were very precise.
 
